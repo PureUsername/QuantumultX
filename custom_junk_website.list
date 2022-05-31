@@ -2,5 +2,5 @@
 # Author: Kok
 # Github: https://github.com/PureUsername/QuantumultX/
 
-DOMAIN-SUFFIX,hostloc.me
-DOMAIN-SUFFIX,hostloc.net
+DOMAIN-SUFFIX,hostloc.me, proxy
+DOMAIN-SUFFIX,hostloc.net, proxy
