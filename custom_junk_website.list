@@ -1,6 +1,0 @@
-# Config Name: custom junk website
-# Author: Kok
-# Github: https://github.com/PureUsername/QuantumultX/
-
-DOMAIN-SUFFIX,hostloc.me, proxy
-DOMAIN-SUFFIX,hostloc.net, proxy
