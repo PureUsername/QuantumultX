@@ -1,0 +1,17 @@
+# Config Name: custom whitelist
+# Author: Kok
+# Github: https://github.com/PureUsername/QuantumultX/
+
+host-suffix, grab.com, direct
+host-suffix, grabtaxi.com, direct
+host-suffix, amazonaws.com, direct
+host-suffix, office365.com, direct
+host-suffix, app-measurement.com, direct
+host-suffix, whatapps.net, direct
+host-suffix, wechat.com, direct
+host-suffix, qq.com, direct
+host-suffix, hotmail.com, direct
+host-suffix, icloud.com, direct
+ip-cidr, 192.168.0.0/24, direct
+ip-cidr, 192.168.10.0/24, direct
+final, proxy
