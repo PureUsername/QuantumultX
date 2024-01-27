@@ -1,0 +1,18 @@
+# Config Name: custom ads
+# Author: Kok
+# Github: https://github.com/PureUsername/QuantumultX/
+
+^https?:\/\/[\s\S]*\.wwads.cn url reject
+^https?:\/\/[\s\S]*\.stargame.com url reject
+^https?:\/\/[\s\S]*\.vungle.com url reject
+^https?:\/\/[\s\S]*\.liftoff.io url reject
+^https?:\/\/[\s\S]*\.liftoff-creatives.io url reject
+^https?:\/\/[\s\S]*\.adsmoloco.com url reject
+^https?:\/\/[\s\S]*\.meson.ai url reject
+^https?:\/\/[\s\S]*\.inmobi.com url reject
+^https?:\/\/[\s\S]*\.inmobicdn.net url reject
+^https?:\/\/[\s\S]*\.archive-digger.com url reject
+^https?:\/\/[\s\S]*\.taboola.com url reject
+^https?:\/\/[\s\S]*\.app-measurement.com url reject
+
+hostname = *.wwads.cn, *.stargame.com, *.vungle.com, *.liftoff.io, *.liftoff-creatives.io, *.adsmoloco.com, *.meson.ai, *.inmobi.com, *.inmobicdn.net, *.archive-digger.com, *.taboola.com, *.app-measurement.com
