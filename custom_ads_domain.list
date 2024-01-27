@@ -5,6 +5,7 @@
 DOMAIN-SUFFIX,wwads.cn, reject
 DOMAIN-SUFFIX,stargame.com, reject
 DOMAIN-SUFFIX,vungle.com, reject
+DOMAIN-SUFFIX,vungle.io, reject
 DOMAIN-SUFFIX,liftoff.io, reject
 DOMAIN-SUFFIX,liftoff-creatives.io, reject
 DOMAIN-SUFFIX,adsmoloco.com, reject
@@ -14,3 +15,5 @@ DOMAIN-SUFFIX,inmobicdn.net, reject
 DOMAIN-SUFFIX,archive-digger.com, reject
 DOMAIN-SUFFIX,taboola.com, reject
 DOMAIN-SUFFIX,app-measurement.com, reject
+DOMAIN-SUFFIX,playablefactory.app, reject
+DOMAIN-SUFFIX,appsflyer.com, reject
