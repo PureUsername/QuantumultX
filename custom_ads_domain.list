@@ -2,15 +2,15 @@
 # Author: Kok
 # Github: https://github.com/PureUsername/QuantumultX/
 
-DOMAIN, wwads.cn, reject
-DOMAIN, stargame.com, reject
-DOMAIN, vungle.com, reject
-DOMAIN, liftoff.io, reject
-DOMAIN, liftoff-creatives.io, reject
-DOMAIN, adsmoloco.com, reject
-DOMAIN, meson.ai, reject
-DOMAIN, inmobi.com, reject
-DOMAIN, inmobicdn.net, reject
-DOMAIN, archive-digger.com, reject
-DOMAIN, taboola.com, reject
-DOMAIN, app-measurement.com, reject
+DOMAIN-SUFFIX, wwads.cn, reject
+DOMAIN-SUFFIX, stargame.com, reject
+DOMAIN-SUFFIX, vungle.com, reject
+DOMAIN-SUFFIX, liftoff.io, reject
+DOMAIN-SUFFIX, liftoff-creatives.io, reject
+DOMAIN-SUFFIX, adsmoloco.com, reject
+DOMAIN-SUFFIX, meson.ai, reject
+DOMAIN-SUFFIX, inmobi.com, reject
+DOMAIN-SUFFIX, inmobicdn.net, reject
+DOMAIN-SUFFIX, archive-digger.com, reject
+DOMAIN-SUFFIX, taboola.com, reject
+DOMAIN-SUFFIX, app-measurement.com, reject
